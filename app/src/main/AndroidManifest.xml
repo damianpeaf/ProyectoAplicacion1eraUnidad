@@ -9,6 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".creditos"></activity>
+        <activity android:name=".area" />
+        <activity android:name=".elipse" />
+        <activity android:name=".logaritmica" />
+        <activity android:name=".circunferencia" />
+        <activity android:name=".exponencial" />
+        <activity android:name=".cubica" />
+        <activity android:name=".hiperbola" />
+        <activity android:name=".cuadratica" />
+        <activity android:name=".parabola" />
+        <activity android:name=".Lineales" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
